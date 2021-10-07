@@ -1,0 +1,7 @@
+import os
+
+def display():
+
+print (“This is a display statement”)
+
+display()
